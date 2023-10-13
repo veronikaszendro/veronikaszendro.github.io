@@ -1607,7 +1607,7 @@ section.lazy-placeholder:after {
 }
 .cid-tSzxxUlIa5 {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-tSzxxUlIa5 P {
@@ -1616,6 +1616,45 @@ section.lazy-placeholder:after {
 .cid-tSzxxUlIa5 .mbr-text,
 .cid-tSzxxUlIa5 .mbr-section-btn {
   color: #232323;
+}
+.cid-tSzBBRdJOW {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-tSzBBRdJOW h3 {
+  font-weight: 300;
+}
+.cid-tSzBBRdJOW .card-img {
+  width: initial;
+}
+.cid-tSzBBRdJOW .card-img .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
+}
+.cid-tSzBBRdJOW .media-container-row {
+  word-wrap: break-word;
+  padding-bottom: 2rem;
+  min-height: 100%;
+}
+.cid-tSzBBRdJOW .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-tSzBBRdJOW .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-tSzBBRdJOW .mbr-text {
+  color: #767676;
+}
+.cid-tSzBBRdJOW .media-container-column {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+}
+.cid-tSzBBRdJOW .mbr-al-i-c {
+  align-items: center;
 }
 .cid-t612vJ6Tzq {
   padding-top: 45px;
@@ -1632,7 +1671,7 @@ section.lazy-placeholder:after {
 }
 .cid-tSzmmBkPWW {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-tSzmmBkPWW h4 {
@@ -1753,6 +1792,49 @@ section.lazy-placeholder:after {
 }
 .cid-t616zJXoS3 P {
   color: #232323;
+}
+.cid-tSzAi9seN5 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-tSzAi9seN5 .card-img {
+  background-color: #fff;
+}
+.cid-tSzAi9seN5 .card {
+  align-self: stretch;
+}
+.cid-tSzAi9seN5 .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-tSzAi9seN5 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-tSzAi9seN5 p {
+  text-align: left;
+}
+.cid-tSzAi9seN5 .mbr-text {
+  color: #767676;
+}
+.cid-tSzAi9seN5 .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-tSzAi9seN5 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-tSzAi9seN5 .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
 }
 .cid-t67vbMfNZP .navbar {
   background: #ffffff;
