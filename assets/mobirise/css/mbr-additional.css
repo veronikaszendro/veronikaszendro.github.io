@@ -1577,17 +1577,6 @@ section.lazy-placeholder:after {
 .cid-t61ap5Y7GZ p {
   margin-bottom: 0;
 }
-.cid-t61ap5Y7GZ .card-box {
-  z-index: 1;
-  position: relative;
-  background-color: rgba(70, 80, 82, 0.6);
-  height: 100%;
-  width: 100%;
-  pointer-events: none;
-}
-.cid-t61ap5Y7GZ .card-box .mbr-text {
-  pointer-events: all;
-}
 .cid-t61ap5Y7GZ .media-container-row {
   word-wrap: break-word;
   word-break: break-word;
@@ -1616,8 +1605,20 @@ section.lazy-placeholder:after {
 .cid-t61ap5Y7GZ .card {
   padding-bottom: 2rem;
 }
+.cid-tSzxxUlIa5 {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-tSzxxUlIa5 P {
+  color: #767676;
+}
+.cid-tSzxxUlIa5 .mbr-text,
+.cid-tSzxxUlIa5 .mbr-section-btn {
+  color: #232323;
+}
 .cid-t612vJ6Tzq {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
