@@ -3635,8 +3635,8 @@ section.lazy-placeholder:after {
   color: #767676 !important;
 }
 .cid-u4aZK5ltnJ {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-u4aZK5ltnJ h2 {
@@ -3697,8 +3697,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-u4aXSAAse8 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-u4aXSAAse8 h4 {
@@ -3715,4 +3715,31 @@ section.lazy-placeholder:after {
 }
 .cid-u4aXSAAse8 .card-wrapper {
   height: 100%;
+}
+.cid-u4b3lwmkTW {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-u4b3lwmkTW p {
+  color: #767676;
+}
+.cid-u4b3lwmkTW .item:focus,
+.cid-u4b3lwmkTW span:focus {
+  outline: none;
+}
+.cid-u4b3lwmkTW .item {
+  padding-bottom: 3rem;
+  cursor: pointer;
+}
+.cid-u4b3lwmkTW .item-wrapper {
+  position: relative;
+}
+.cid-u4b3lwmkTW .item-btn,
+.cid-u4b3lwmkTW h4,
+.cid-u4b3lwmkTW h5 {
+  margin: 0;
+}
+.cid-u4b3lwmkTW .item-content {
+  padding-top: 2rem;
 }
