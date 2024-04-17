@@ -2333,6 +2333,24 @@ section.lazy-placeholder:after {
 .cid-uadfM65hcg P {
   color: #232323;
 }
+.cid-uadgjv7VOK {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-uadgjv7VOK .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-uadgjv7VOK .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-uadgjv7VOK .mbr-text {
+  color: #767676;
+}
 .cid-tu3rE05F8r {
   padding-top: 30px;
   padding-bottom: 30px;
