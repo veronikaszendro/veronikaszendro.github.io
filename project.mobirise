@@ -2146,6 +2146,10 @@
             },
             ".mbr-text": {
               "color": "#232323"
+            },
+            "P": {
+              "color": "#232323",
+              "text-align": "left"
             }
           },
           "_name": "features11",
